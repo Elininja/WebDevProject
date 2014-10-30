@@ -1,4 +1,18 @@
 h1 {
-  font-style: bold;
+  /*font-style: bold;*/
+  font-style: underline;
+  font-size: 64;
+}
+
+p {
   font-size: 32;
+}
+
+body {
+  text-align: center;
+  font-family: Tahoma, Geneva, sans-serif;
+  max-width: 800px;
+  margin: 32px auto;
+  background-color: navy;
+  color: beige;
 }
