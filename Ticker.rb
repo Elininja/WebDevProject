@@ -22,10 +22,10 @@ get '/' do
  erb :index
 end
 
-#post '/' do
-#  TodoItem.create(params)
-#  redirect '/'
-#end
+post '/' do
+ Ticker.create(params)
+ redirect '/'
+end
 
 #get '/delete/:id' do
 #  TodoItem.find(params[:id]).destroy

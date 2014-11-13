@@ -2,3 +2,11 @@
 
 <h1> Now Serving: </h1>
 <p><%= @currentNumber %></p>
+
+<form action='/' method='POST'>
+  <strong>Name:</strong>
+  <input type='text' name='name' placeholder='Who are you?' />
+  <input type='submit' value='Get in line'>
+</form>
+
+<% @currentNumber %>
