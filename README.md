@@ -1,8 +1,7 @@
-This is going to be a Ticker web app for creating order out of chaos in the classroom.
+#My Ticker Web App
+Creating order out of chaos in the classroom.
 
-~Not pushed to Heroku yet. You'll need to run the app locally with Shotgun.
-
-~Currently just a skeleton, next I plan to add:
-
---Form to specify a name to attach to each number
---Button to clear the current number and move on to the next
+-Not pushed to Heroku yet. You'll need to run the app locally with Shotgun.
+-Currently just a skeleton, next I plan to add:
+  -Form to specify a name to attach to each number
+  -Button to clear the current number and move on to the next
